@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning javaScript,React,Node,Express
 - 💞️ I’m looking to collaborate on my Github 
 - 📫 How to reach me jainchinmay916@gmail.com
-- Looking for a job (full-time/internships) ,watch my code and contact me 
+- Looking for a job (full-time/internships) .
+- Tech Stack - React ,Node JavaScript(ES6),Express MongoDB
 
 <!---
 Chinmayltp/Chinmayltp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
